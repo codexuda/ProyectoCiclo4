@@ -3,3 +3,4 @@ Codex UdA Desarrollo Web
 * Mario Mauricio Martínez López
 * Jeisson Alexander Cifuentes Bobadilla
 * Jonathan Bernal Pérez
+* Miguel Angel Montes Santos
